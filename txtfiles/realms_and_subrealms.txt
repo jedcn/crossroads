@@ -1,0 +1,74 @@
+From https://web.archive.org/web/20041011164347/http://www.crossroadsoftheelements.com/realms_and_subrealms.txt
+
+Neutral
+-------
+BASE	Base
+UNION	Elemental Union
+AIRRM	Air
+ERTRM	Earth
+WATRM	Water
+FIRRM	Fire
+NEU	Neutral
+SPE	Specials
+
+Earth
+-----
+EEN	Entrance
+CLF	Cliffs
+GRV	Graveyard
+CAS	Castle
+FOR	Forest
+MIN	Mines
+UNG	Underground
+CAV	Caverns
+CIT	Citadel
+TRE	Trees
+
+Water
+-----
+GAT	Gateway To Water
+MAR	Marsh
+RIV	River
+CAV	Caves
+ROC	Rocky Beach
+LIG	Lighthouse
+CRA	Crashing Surf
+COR	Coral Reef
+SHI	Sunken Ship
+SEA	Open Sea
+DEE	Deeps
+ATL	Aquatica (Atlantis?)
+CIT	Citadel
+WHA	Whale
+
+Air
+---
+APL	Plains
+WLW	Whirlwind
+CLD	Clouds
+STR	Stars
+PLN	Windswept Plains
+DSC	Deserted City
+RBB	Rainbow
+ARE	Arena
+CIT	Citadel
+HEL	Helos
+
+Fire
+----
+GAT	Gateway to Fire
+BAS
+BRI	Bridge
+TEM	Temple
+PUB	Black's Cauldron
+CIT	City of Avernus
+VOL	Volcano
+STA	Staircase
+WAS	Wasteland
+KHA	Khalas Interior
+PUZ	Puzzle?
+CHA	Chamber
+SEA	Sea of Fire
+ACH	Acheron
+CIT	Citadel
+DES	Desert
