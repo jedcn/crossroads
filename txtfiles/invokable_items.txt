@@ -1,0 +1,27 @@
+From https://web.archive.org/web/20041011141053/http://www.crossroadsoftheelements.com/invokable_items.txt
+
+Invokable Items
+
+Item             Effect
+Chalice          Add 10 points to Dexterity, Intelligence, and Speed
+Cornucopia       Removes one elemental shield everyone else in the room
+Crystal Orb      Makes everyone else in the room drunk
+Earring          Summon nightmare
+Emerald          Confines players that are in the room
+                 Doesn't always work, especially on higher-level players
+Granite Staff    Removes all items on the ground
+Marble Chip      Anchors everyone in the room except invoker
+Moonstone        Teleports player to anchor point
+                 Will randomly scatter if not anchored
+                 Will not work in Citadels and some other places
+Nightstone       Teleports player to elemental room if successfully invoked
+                 Will steal hit and spell points, leaving you with 1 each
+                 Will randomly fail at higher levels
+Ruby             Blinds other players that are in the room
+                 Doesn't always work, especially on higher-level players
+Sapphire         Add 10 points to strength and ego
+Staff of Undead  Summons zombies
+Statue - Fire    Summons Sidewinders, Scorpions, and Tigers
+Statue - Water   Summons Water Snakes, Crocodiles, and Nixies
+Statue - Air     Summons Bats, Owls, and Harpies
+Statue - Earth   Summons Rams, Cougars, and Bears
