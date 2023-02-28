@@ -1,0 +1,40 @@
+From https://web.archive.org/web/20041010153314/http://www.crossroadsoftheelements.com/commands.txt
+
+Player Class Commands (Out of Persona)
+HELP ?         --  See more help
+BRIEF          --  Room descriptions (short).
+VERBOSE        --  Room descriptions (full).
+EXIT X         --  Exit Crossroads to system.
+HIGH           --  Show high scores.
+STAT           --  Show your statistics.
+HITS           --  Show hit and spell points
+RESET          --  Restart your character.
+
+Character Class Commands (In Persona)
+NORTH N        --  Move
+SOUTH S        --  Move
+EAST E         --  Move
+WEST W         --  Move
+UP U           --  Move
+DOWN D         --  Move
+RESEARCH       --  Research spells in library.
+ARM            --  Make an item you are carrying your ready weapon.
+DISARM         --  Return a ready weapon to your inventory.
+WEAR           --  Put on a suit of armor you have.
+DISROBE        --  Return the armor you're wearing to your inventory.
+HIT            --  Swing your ready weapon at something.
+KILL           --  Swing your ready weapon at something.
+GET            --  Pick up an item that is on the ground.
+TAKE           --  Pick up an item that is on the ground.
+DROP           --  Drop an item from your inventory onto the ground.
+GIVE           --  Give another player an item.
+DRINK          --  Drink a potion.
+INVOKE         --  Invoke a magical item.
+INVENTORY I INV--  Display your inventory.
+BUY            --  Buy an item in a shop.
+SELL           --  Sell an item to a shopkeeper.
+APPRAISE       --  Have a shopkeeper appraise an object.
+LOOK L         --  Look at a room, player, item, or monster.
+SPELLS         --  List the spells you can cast.
+OFFER          --  Offer gold at an altar.
+PRAY           --  Pray for divine intervention at an altar.
