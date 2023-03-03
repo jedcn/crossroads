@@ -1,0 +1,15 @@
+From https://web.archive.org/web/20041011172505/http://www.crossroadsoftheelements.com/spells_shield.txt
+
+Shield Spells
+
+Each element has a shield spell that will increase your
+protection.
+
+Each sheild spell must be earned through experience,
+and requires a material component to be cast.
+
+Realm Spell Needed Material Component Needed
+Air   airshield    harpy feather
+Earth stoneshield  acorn
+Water aquashield   pearl
+Fire  flameshield  sulphur
