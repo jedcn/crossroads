@@ -1,0 +1,62 @@
+From https://web.archive.org/web/20041011152748/http://www.crossroadsoftheelements.com/monsters_earth.txt
+
+Lvl  Earth monsters     Hit Points Type
+---  --------------     ---------- ----
+3    Jomb               -          -
+3    rat                17         Physical
+4    ram                24         Physical
+6    cougar             31         Physical
+7    bear               39         Physical
+8    Palcic             -          -
+8    skeleton           46         Physical
+9    orc                48         Physical
+9    Mokkis             -          -
+9    Roltima            -          -
+9    zombie             53         Physical See NOTE 1
+10   bugbear            64         Physical
+11   ghoul              82         Physical
+12   troll              85         Physical
+13   cobra              115        Physical See NOTE 2
+14   ogre               133        Physical
+14   giant grasshopper  127        Physical
+15   giant beetle       153        Physical
+15   giant centipede    147        Physical
+16   xorn               182        Physical
+17   giant ant          245        Physical
+18   umber hulk         293        Physical
+19   centaur            362        Physical
+20   ettin              400        Physical
+22   golem              598        Physical
+23   sphinx             641        Physical
+25   lich               800        Physical See NOTE 3
+25   giant earthworm    908        Physical
+27   gorgon             1300       Physical See NOTE 4
+27   gold dragon        1467       Physical See NOTE 5
+29   Gotik              2216       Physical See NOTE 6
+30   dao                2518       Physical See NOTE 7
+
+Physical monsters are easier for a Fighter to fight.
+Magical monsters are easier for Mages.
+
+At higher levels, magical monsters will always hit Fighters,
+and physical monsters will always lay the smack down on mages.
+
+NOTE 1: Summon by Staff of the Undead
+NOTE 2: Poison
+NOTE 3: All inventory is stripped going to mausoleum
+NOTE 4: Poison
+NOTE 5: Poison/confine
+NOTE 6: Confine/leprosy
+NOTE 7: Summon daos/gorgons and leprosy
+
+Original List Courtesy of Mike "Guile" Donnelly/High Velocity Software.
+Original level and monster table listed in HVSXRSYS.DOC
+Site Page Built by Allen "Exile In Paradise" Murphey
+Hit Point Values Contributed by Brandy "Thunderstruck" Huffman
+Monster Types and Notes Contributed by David "Tanis" Brashear
+
+Original table Copyright &copy; 1992 High Velocity Software.
+Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Tanis.

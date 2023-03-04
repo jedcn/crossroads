@@ -1,0 +1,52 @@
+From https://web.archive.org/web/20041011171325/http://www.crossroadsoftheelements.com/spells_earth.txt
+
+Spells for Earth
+
+NOTE: Some spells will affect you if you do not specify a target.
+Test each new spell at each new level.
+
+Lv Spell       Effects
+ 1 Hammer      Attack individual players or monsters
+ 2 Rumble      Showoff
+ 2 Heal        Heals yourself or others hit points
+ 3 Healthsee   Shows how many hitpoints someone or something has
+ 4 Seewind     See invisible people
+ 5 Poison      Curse/Poison others, buy cure from monk
+ 6 Itemsmash   Destroy an item in victims inventory
+ 7 Quake       Room-wide attack
+ 8 Cure        Remove minor curses like blind, confine, poison, suffocate like cure at the Monks
+ 9 Flameshield Protection from Fire, need sulphur
+ 9 Aquashield  Protection from Water, need pearl
+10 Smash       Like hammer, but stronger
+11 Fury        Room-wide duration attack, duration depends on caster level
+12 Mine        Steal object from victim's inventory for yourself
+13 Enchant     Make armor/weapon into Earth item, needs acorn
+14 Cage        Confine victim player
+15 Beastcall   Summon low-level Earth creature, needs mandrake
+15 Airshield   Protection from Air, needs harpy feather
+16 Avalanche   Room-wide attack, like quake but stronger
+18 Noxious     Area-effect curse against all players in room, buy cure from monk
+19 Soften      Curse weapon, removes one blessing
+19 Bronze      Bless weapon, cast again and again until it fizzles
+20 Fiendcall   Summon medium level Earth creature, needs mandrake
+21 Statuette   Make Earth statue, summons low-level creature when invoked, needs agate
+21 Pulverize   Like smash but stronger
+23 Erode       Curse armor, removes 1 blessing
+23 Harden      Bless armor, cast again and again until it fizzles
+24 Alltodust   Turns all items in victim inventory to dust
+25 Paranoia    Make victim think any players encountered are attacking
+26 Demoncall   Summon high-level Earth creature, needs mandrake
+27 Prison      Area-effect confinement, like cage but lasts longer
+28 Wormcall    Causes giant earthworm to take victim to worm tunnel in Earth Realm, bite and ride = ~70 pts damage
+29 Leprosy     Curse to rot away and lower physical levels, but remove from monk, needs cobra tooth
+30 Petrify     Highest level attack against one opponent
+
+Spell List Contributed by Brandy "Thunderstruck" Huffman
+Site Page Built by Allen "Exile In Paradise" Murphey
+Correction for Pulverize from level 22 to 21 Contributed by Camron Uhr.
+
+Crossroads of the Elements Copyright (c) 1992 Mike "Guile" Donnelly/High Velocity Software.
+Online table Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Camron Uhr.
