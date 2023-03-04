@@ -1,0 +1,69 @@
+From https://web.archive.org/web/20041011160854/http://www.crossroadsoftheelements.com/monsters_water.txt
+
+Lvl  Water monsters Hit Points Type
+---  -------------- ---------- ----
+3    water snake    17         Physical
+4    water skipper  20         Physical
+5    crocodile      28         Physical
+6    nixie          29         Magical
+7    sea otter      38         Physical
+8    sea turtle     -          Physical See NOTE 1
+8    seal           46         Physical
+9    lionfish       50         Physical
+9    sea lion       52         Physical
+9    jellyfish      56         Physical
+10   octopus        62         Physical
+12   ray            94         Magical  See NOTE 1 and 4
+12   ropeworm       110        Physical
+12   sperm whale    -          Physical See NOTE 2 and 3
+13   eel            116        Physical
+14   reef shark     121        Physical
+15   sister         172        Magical  See NOTE 5,7
+15   dolphin        126        Physical
+16   giant squid    180        Physical
+17   tangler        220        Physical
+18   nymph          301        Magical  See NOTE 5
+20   mermaid        376        Physical
+22   merman         574        Physical
+24   seahorse       901        Physical
+26   triton         1281       Physical
+28   killer whale   1548       Physical
+29   tiger shark    1928       Physical
+30   marid          2333       Physical See NOTE 6
+31   sister         -          -        See NOTE 7
+31   abbess         -          -
+31   Marna          -          -
+31   Arond          -          -
+Physical monsters are easier for a Fighter to fight.
+Magical monsters are easier for Mages.
+
+At higher levels, magical monsters will always hit Fighters,
+and physical monsters will always lay the smack down on mages.
+
+NOTE 1: Not listed in Sysop manual or HVSXRSYS.DOC
+NOTE 2:
+"As I learned just now, attacking a sperm whale is a bad idea.
+ Exile,would you mind updating the info on your site?
+ I hit a sperm whalefor 88, and it swallowed me whole.
+ Sperm whales swallow you where you get stuck unless they are
+ killed in one hit. I was advised that ittakes about 200 hps to kill it."
+ - Thanks to Rehtiks for the tip!
+ "Just tickle it and it will spit you out." - Evenstar
+NOTE 3: Can swallow whole, can't recall or summon
+NOTE 4: Suffocate
+NOTE 5: Confusion
+NOTE 6: Summon Marids/Killer whales/Tiger sharks
+NOTE 7: Several appear in database, some as level 31 special monsters
+
+Original List Courtesy of Mike "Guile" Donnelly/High Velocity Software.
+Original level and monster table listed in HVSXRSYS.DOC
+Site Page Built by Allen "Exile In Paradise" Murphey
+Hit Point Values Contributed by Brandy "Thunderstruck" Huffman
+Monster Types and Notes Contributed by David "Tanis" Brashear
+Tip about Sperm Whale attack Contributed by "Rehtiks" and "Evenstar"
+
+Original table Copyright &copy; 1992 High Velocity Software.
+Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, Tanis, Rehtiks, and Evenstar

@@ -1,0 +1,51 @@
+From https://web.archive.org/web/20041011173031/http://www.crossroadsoftheelements.com/spells_water.txt
+
+Spells for Water
+
+NOTE: Some spells will affect you if you do not specify a target.
+Test each new spell at each new level.
+
+Lv Spell          Effect
+ 1 Tentacle       Attack individual players and monsters
+ 1 Flood          Showoff
+ 2 Scry           See room description of where another player is
+ 3 Fetch          Send water sprite asking other player to come to caster
+ 4 Heal           Heals hit points
+ 5 Immerse        Curse/Poison other player, buy cure from monk
+ 6 Drunk          Make other player drunk, wears off, buy cure from monk
+ 7 Snowstorm      Room-wide attack spell (you will take damage too)
+ 8 Stoneshield    Protection from Earth, needs acorn
+ 8 Airshield      Protection from Air, needs harpy feather
+ 9 Beastcall      Summons a low-level Water creature, needs conch
+10 Snowstrike     Like tentacle like stronger
+11 Enchant        Make armor/weapon into Water item, needs pearl
+12 Fury           Room-wide duration attack
+13 Flameshield    Protection from Fire, needs sulphur
+14 Rust           Curse armor, removes one blessing
+14 Guard          Bless armor, cast again and again until fizzles
+15 Nullify        Take away all player elemental shields
+16 Icecone        Like snowstorm but stronger
+17 Aid            Drain HP and SP to give to other player
+18 Drown          Like immerse but stronger
+19 Statuette      Make Water statue, summons low-level creature when invoked, needs conch
+20 Icestrike      Like snowstorm but stronger
+21 Fiendcall      Summons medium-level Water creature, needs conch
+22 Scorn          Curse weapon, takes away one blessing
+22 Favor          Bless weapon, cast again and again until fizzles
+23 Frost          Drop other players combat time and regenerative powers (ego and dex bu 10 points?)
+24 Enhance        Enhances duration of magic, curses or blessings on other player
+25 Swindle        Trades what you are armed with with what monster/shopkeeper has (water axe?)
+26 Strong         Increase self or others Ego and Str by 10
+27 Demoncall      Summon high-level Water creature, needs conch
+28 Influx         Cause other player to heal quicker
+29 Transform      Transforms monsters, shopkeepers, anything except a player into a water monster
+30 Reflect        Protects caster from other player spells, needs turtle shell, must be recast after each spell reflected
+
+Spell List Contributed by Brandy "Thunderstruck" Huffman
+Site Page Built by Allen "Exile In Paradise" Murphey
+
+Crossroads of the Elements Copyright (c) 1992 Mike "Guile" Donnelly/High Velocity Software.
+Online table Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, and Thunderstruck.
