@@ -1,0 +1,52 @@
+From https://web.archive.org/web/20041011172006/http://www.crossroadsoftheelements.com/spells_fire.txt
+
+Spells for Fire
+
+NOTE: Some spells will affect you if you do not specify a target.
+Test each new spell at each new level.
+
+Lv Spell           Effect
+ 1 Flamestrike     Attack individual players and monsters
+ 1 Inferno         Showoff
+ 2 Flash           Curse player with blindness
+ 3 Raze            Destroy all items on the ground
+ 4 Enchant         Make armor/weapon into Fire item, needs sulphur
+ 5 Torch           Curse to set another player on fire, buy cure from monk
+ 6 Arm             Will turn obsidian into flamesticks, needs obsidian
+ 7 Firestorm       Room-wide attack spell
+ 8 Heal            Heals hit points
+ 9 Fury            Room-wide duration attack
+10 Melt            Like flamestrike but stronger
+11 Stoneshield     Protection from Earth, needs acorn
+11 Airshield       Protection from Air, needs harpy feather
+12 Fail            Curse weapon, removes one blessing
+12 Luck            Bless weapon, cast again and again until it fizzles
+13 Beastcall       Summon low-level Fire creature, needs incense
+14 Mundane         Removes curses from weapons and armor
+15 Disarm          Destroys whatever a player is armed with
+16 Fireball        Area-effect, like firestorm but stronger (you will take damage)
+17 Aquashield      Protection from Water, needs pearl
+18 Ignite          Area-effect, like torch but lasts longer, but cure from monk
+19 Statuette       Makes Fire statue, summon low-level creature when invoked, needs garnet
+20 Immolate        Like melt but stronger
+21 Wither          Curse armor, removes one blessing
+21 Temper          Bless Armor, cast again and again until fizzles
+22 Fiendcall       Summons medium-level Fire creature, needs incense
+23 Firetrap        Area-effect confinement, confines other player
+24 Divest          Destroys other player's armor
+25 Fast            Increased speed for short period of time, like chalice but longer
+26 Demoncall       Summon high-level Fire creature, needs incense
+27 Blind           Like flash, but lasts longer, buy cure from monk
+28 Banish          Send another player to Acheron, at beginning of north-south passage
+29 Heatwave        Attack opponent's Strength and Ego, buy remove to cure it.
+30 Cremate         Highest level attack against one opponent, needs skull
+
+Spell List Contributed by Brandy "Thunderstruck" Huffman
+Site Page Built by Allen "Exile In Paradise" Murphey
+Correction for Heatwave spell contributed by Rehtiks
+
+Crossroads of the Elements Copyright (c) 1992 Mike "Guile" Donnelly/High Velocity Software.
+Online table Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck and Rehtiks.

@@ -1,0 +1,63 @@
+From https://web.archive.org/web/20041011153904/http://www.crossroadsoftheelements.com/monsters_fire.txt
+
+Lvl  Fire monsters Hit Points Type
+---  ------------- ---------- ----
+3    sidewinder    10         Physical
+5    scorpion      28         Physical
+6    camel         31         Physical
+7    tiger         36         Physical
+8    imp           48         Physical
+8    initiate      48         Magical  See NOTE 9
+10   fire lizard   65         Physical
+11   flame giant   80         Physical
+12   monk          97         Magical  See NOTE 1,2,9
+12   shade         98         Magical
+13   hell hound    110        Physical
+14   salamander    124        Physical
+16   basilisk      189        Physical See NOTE 3
+18   nightmare     261        Physical See NOTE 4
+20   magman        378        Physical
+20   succubus      431        Physical
+22   incubus       586        Physical
+24   devil         891        Magical  See NOTE 5
+26   red dragon    1178       Magical  See NOTE 6
+29   hydra         2071       Physical See NOTE 7
+30   efreeti       2467       Magical  See NOTE 8
+31   Lor           -          -
+31   Dara          -          -
+31   Black         -          -
+31   abbot         -          -
+31   giant snake   -          -
+31   Zoth          -          -
+31   fiend         -          -
+31   demon lord    -          -
+
+Physical monsters are easier for a Fighter to fight.
+Magical monsters are easier for Mages.
+
+At higher levels, magical monsters will always hit Fighters,
+and physical monsters will always lay the smack down on mages.
+
+NOTE 1: Monster not listed in Sysop Manual or HVSXRSYS.DOC
+NOTE 2: Confine/Set Ablaze
+NOTE 3: looking can cause instant death
+NOTE 4: Summoned by earrings
+NOTE 5: Blind
+NOTE 6: Set Ablaze
+NOTE 7: Confine
+NOTE 8: Summon efreetis/Hydras/Red Dragons
+NOTE 9: Several appear in monster data, some as level 31 special monsters
+
+TODO - How to beat the basilisk?
+
+Original List Courtesy of Mike "Guile" Donnelly/High Velocity Software.
+Original level and monster table listed in HVSXRSYS.DOC
+Site Page Built by Allen "Exile In Paradise" Murphey
+Hit Point Values Contributed by Brandy "Thunderstruck" Huffman
+Monster Types and Notes Contributed by David "Tanis" Brashear
+
+Original table Copyright &copy; 1992 High Velocity Software.
+Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Tanis.
