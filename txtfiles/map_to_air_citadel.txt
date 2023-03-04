@@ -1,0 +1,40 @@
+From https://web.archive.org/web/20041011150504/http://www.crossroadsoftheelements.com/map_to_air_citadel.txt
+
+Map to Citadel of Air
+
+First, gather stardust.
+
+Starting from the Gateway to Air:
+
+)n ...You are at the base of the whirlwind.
+)u ...You are at the middle of the whirlwind.
+)w ...You are at the edge of the whirlwind.
+)u ...You are on a huge thundercloud.
+)e ...You are on a huge thundercloud.
+)d ...You are on a huge, billowing cloud.
+)n ...You are on a huge, billowing cloud.
+)u ...You are on a shifting cloud.
+)n ...You are walking across a cloud battlefield.
+)w ...You are on a churning cloud.
+)u ...You are on a very high cloud.
+)e ...You are on a very high cloud.
+)u ...You are on a tiny, wispy cloud.
+)? ...You are on a tiny, wispy cloud.
+)scatter stardust
+...You scatter the stardust!
+...You are at the edge of the stars.
+...Visible exits are: north and down
+)n ...You are standing among the stars.
+)w ...You are standing among the stars.
+)w ...You are standing in a field of stars.
+)n ...You are in a star cluster.
+)w ...You are standing near a pool of stars.
+)d ...You are on the edge of a cloud island.
+)e ...You are at the entrance to an arena.
+)e ...You are in a raging gale.
+)e ...You are flying in the howling wind.
+)e ...You are at the base of the Citadel of Air.
+
+When you die:
+
+...You're in the Chamber of (Earth/Air/Fire/Water)

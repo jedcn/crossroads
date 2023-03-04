@@ -1,0 +1,60 @@
+From https://web.archive.org/web/20041011151709/http://www.crossroadsoftheelements.com/monsters_air.txt
+
+Lvl  Air monsters   Hit Points Type
+---  ------------   ---------- ----
+3    bat            18         Magical
+4    owl            20         Magical
+6    harpy          32         Magical
+6    Hebezega       -          -
+7    wind walker    37         Magical
+8    Amaranth       -          -
+8    eagle          43         Magical
+9    banshee        56         Magical See NOTE 1
+9    gargoyle       55         Magical
+9    Klemm          -          -
+10   Lyrote         -          -
+10   storm giant    66         Magical
+11   wyvern         79         Magical
+11   wraith         83         Magical
+12   spectre        95         Magical
+14   ghost          133        Magical
+15   griffon        149        Magical
+17   pegasus        209        Magical
+19   couatl         302        Magical
+21   star lion      466        Magical
+22   bull           555        Magical
+23   cloud dragon   732        Magical
+24   chimera        805        Magical
+25   sorcerer       1075       Magical See NOTE 2
+26   star dragon    1165       Magical
+26   archer giant   1174       Magical
+27   roc            1367       Magical
+28   aerial servant 1500       Magical See NOTE 3
+29   Zeus           2043       Magical See NOTE 4
+30   djinni         2518       Magical See NOTE 5
+
+Physical monsters are easier for a Fighter to fight.
+Magical monsters are easier for Mages.
+
+At higher levels, magical monsters will always hit Fighters,
+and physical monsters will always lay the smack down on mages.
+
+NOTE 1: Can sometimes do a LOT of damage.
+NOTE 2: Suffocate?
+NOTE 3: Summoned by aeroslay
+NOTE 4: Special high damage attack/befuddle
+NOTE 5: Summon djinnis/rocs and befuddle
+
+TODO - Guile, can Banshee special attack rules can be revealed?
+
+Original List Courtesy of Mike "Guile" Donnelly/High Velocity Software.
+Original level and monster table listed in HVSXRSYS.DOC
+Site Page Built by Allen "Exile In Paradise" Murphey
+Hit Point Values Contributed by Brandy "Thunderstruck" Huffman
+Monster Types and Notes Contributed by David "Tanis" Brashear
+
+Original table Copyright &copy; 1992 High Velocity Software.
+Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Tanis.
