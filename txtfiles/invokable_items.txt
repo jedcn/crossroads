@@ -3,7 +3,7 @@ From https://web.archive.org/web/20041011141053/http://www.crossroadsoftheelemen
 Invokable Items
 
 Item             Effect
-Chalice          Add 10 points to Dexterity, Intelligence, and Speed
+Chalice          Add 10 points to Dexterity, Intelligence, and Speed for 5 -> 10 mins
 Cornucopia       Removes one elemental shield everyone else in the room
 Crystal Orb      Makes everyone else in the room drunk
 Earring          Summon nightmare
