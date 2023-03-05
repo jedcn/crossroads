@@ -1,0 +1,53 @@
+From https://web.archive.org/web/20041011170655/http://www.crossroadsoftheelements.com/spells_air.txt
+
+Spells for Air
+
+NOTE: Some spells will affect you if you do not specify a target.
+Test each new spell at each new level.
+
+Lv Spell       Effects
+ 1 Whip        Attack individual player or monster
+ 2 Gust        Showoff
+ 3 Whisper     Send fairy with message to another player
+ 3 Goodbye     Teleportation, can send someone anywhere
+ 4 Anchor      Set return point for recall spell (do not anchor in town)
+ 5 Suffocate   Poison other player, who must buy cure from monk
+ 6 Twister     Room-wide attack (you will take damage)
+ 7 Heal        Heals yourself or others
+ 7 Enchant     Make armor/weapon into Air version, needs harpy feather
+ 7 Recall      Return to anchor point, if no anchor, works like goodbye
+ 9 Flameshield Protection from Fire, needs surphur
+ 9 Aquashield  Protection from Water, needs pearl
+10 Gale        Stronger attack than Whip
+11 Fury        Room-wide duration attack, lasts in room for a duration of time
+12 Disperse    Move ground objects 1 space away from you
+13 Breezebend  Curse for weapon, takes away one blessing
+13 Starsteel   Blessing for weapon, cast again and again until it fizzles
+14 Beastcall   Summon low level Air creature, needs eagle claw
+15 Stoneshield Protection from Earth, needs acorn
+16 Hurricane   Room-wide attack like twister, but stronger (you will take damage)
+17 Windwrap    Blessing for armor, cast again and again until it fizzles
+17 Cloudkiss   Curse for armor, takes away one blessing
+18 Fiendcall   Summon medium level Air creature, needs eagle claw
+19 Vacuum      Stonger version of suffocate
+20 Shriek      Highest level attack spell against one opponent
+21 Invisible   Make yourself or someone else invisible
+22 Scatter     Teleport yourself, others, and ground objects to a random destination
+23 Statuette   Makes Air statue, causes low-level Air creature to appear when invoked, needs amethyst
+24 Aid         Drains HP and SP to give SP to another player
+25 Confusion   Makes another player drunk, wears off, buy cure from monk
+26 Demoncall   Summons high level Air creature, needs eagle claw
+27 Dustdevil   Makes another player blind
+28 Summon      Teleport another player to your location
+29 Befuddle    Curse, removes spell levels, buy remove from monk, needs silver feather
+30 Aeroslay    Summons level 28 Aerial Servant to kill player or guard room
+
+Spell List Contributed by Brandy "Thunderstruck" Huffman
+Site Page Built by Allen "Exile In Paradise" Murphey
+Correction for Windwrap and Cloudkiss at level 17 Contributed by Gregory Bragg.
+
+Crossroads of the Elements Copyright &copy; 1992 Mike "Guile" Donnelly/High Velocity Software.
+Online table Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Gregory Bragg.
