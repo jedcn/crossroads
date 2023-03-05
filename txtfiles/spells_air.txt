@@ -16,7 +16,7 @@ Lv Spell       Effects
  7 Heal        Heals yourself or others
  7 Enchant     Make armor/weapon into Air version, needs harpy feather
  7 Recall      Return to anchor point, if no anchor, works like goodbye
- 9 Flameshield Protection from Fire, needs surphur
+ 9 Flameshield Protection from Fire, needs sulfur
  9 Aquashield  Protection from Water, needs pearl
 10 Gale        Stronger attack than Whip
 11 Fury        Room-wide duration attack, lasts in room for a duration of time
