@@ -1,0 +1,10 @@
+
+These file captures explicit strings that indicate state has changed:
+
+aquashield has expired:
+
+A chill runs down your spine and your protection from Water wears off.
+
+flameshield has expired:
+
+A chill runs down your spine and your protection from Fire wears off.
