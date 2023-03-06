@@ -1,0 +1,55 @@
+From https://web.archive.org/web/20041011154945/http://www.crossroadsoftheelements.com/monsters_neutral.txt
+
+Lvl  Neutral monsters
+---  ----------------
+1    bum
+1    Byrmic
+1    gold mouse
+1    gremlin
+1    guard
+1    Hanrod
+1    Izalig
+1    jackal
+1    monk
+1    Oria
+1    pixie
+1    slug
+1    warrior
+1    Wenzel
+1    wild dog
+1    Zell
+2    wolf
+2    mirage
+2    brigand
+2    flame bat
+2    green slime
+3    firesnake
+3    snakevine
+5    giant spider
+6    giant toad
+6    sea stalker
+7    minotaur
+7    ethereal warrior
+9    wight
+31   Iolo
+
+Physical monsters are easier for a Fighter to fight.
+Magical monsters are easier for Mages.
+
+At higher levels, magical monsters will always hit Fighters,
+and physical monsters will always lay the smack down on mages.
+
+TODO - Does anyone have hit points for Neutral monsters?
+TODO - Does anyone have types for Neutral monsters
+
+Original List Courtesy of Mike "Guile" Donnelly/High Velocity Software.
+Original level and monster table listed in HVSXRSYS.DOC
+Site Page Built by Allen "Exile In Paradise" Murphey
+Hit Point Values Contributed by Brandy "Thunderstruck" Huffman
+Monster Types and Notes Contributed by David "Tanis" Brashear
+
+Original table Copyright &copy; 1992 High Velocity Software.
+Copyright (c) 2003-2004 CrossroadsOfTheElements.Com
+Used with permission. All Rights Reserved.
+May be freely linked to but not reproduced elsewhere without written
+permission of Guile, Exile, Thunderstruck, and Tanis.
