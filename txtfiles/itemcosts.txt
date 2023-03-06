@@ -1,0 +1,156 @@
+From https://web.archive.org/web/20041010160500/http://www.crossroadsoftheelements.com/itemcosts.txt
+
+Items You Can Buy/Sell*     Buy Sell Shop   Owner**
+acorn                         5    4 Magic  Izalig
+adamantine mail            6500 5200 Armory Hanrod
+adamantine hammer           600  480 Weapon Wenzel
+agate                        75   67 Jewels Oria
+air axe                      50   40 Weapon Wenzel
+air dagger                   10    9 Weapon Wenzel
+air mace                     25   20 Weapon Wenzel
+air statue                   50   42 Magic  Izalig
+air sword                    37   29 Weapon Wenzel
+amber                       250  225 Jewels Oria
+amethyst                     75   67 Jewels Oria
+amulet                      150  120 Armory Hanrod
+aquamarine                 1200 1080 Jewels Oria
+axe                          40   32 Weapon Wenzel
+azure potion                250  225 Heal   Monk
+berzerker's fist            800  640 Weapon Wenzel
+bloodstone                  250  225 Jewels Oria
+bracer                      300  240 Armory Hanrod
+brew                         10    9 Heal   Monk
+broadsword                  150  120 Weapon Wenzel
+chain armor                 300  240 Armory Hanrod
+chakla                      400  360 Pawn   Zell
+chalice                     800  720 Jewels Oria
+circlet                    4000 3200 Armory Hanrod
+cloak                       100   80 Armory Hanrod
+cloth armor                  20   16 Armory Hanrod
+cobalt potion               800  680 Heal   Monk
+cobra tooth                 600  540 Jewels Oria
+conch                        75   67 Jewels Oria
+coral                        25   22 Jewels Oria
+coral trident               N/A  800 Weapon Wenzel
+cornucopia                  800  720 Jewels Oria
+crimson potion             4000 3600 Heal   Monk
+crystal orb                 200  180 Jewels Oria
+crystal shard                10    9 Pawn   Zell
+crystal sword               400  320 Weapon Wenzel
+cure poison/minor curse     100  N/A Heal   Monk
+cyan potion                  10    9 Heal   Monk
+dagger                       10    9 Weapon Wenzel
+diamond                    1200 1080 Jewels Oria
+dragon scale                200  180 Magic  Izalig
+eagle claw                   20   17 Magic  Izalig
+earring                     600  540 Jewels Oria
+earth axe                    50   40 Weapon Wenzel
+earth dagger                 10    9 Weapon Wenzel
+earth mace                   25   20 Weapon Wenzel
+earth statue                 50   42 Magic  Izalig
+earth sword                  37   29 Weapon Wenzel
+emerald                    1800 1620 Jewels Oria
+fire armor                   60   48 Armory Hanrod
+fire axe                     50   40 Weapon Wenzel
+fire dagger                  10    9 Weapon Wenzel
+fire mace                    25   20 Weapon Wenzel
+fire statue                  50   42 Magic  Izalig
+fire sword                   37   29 Weapon Wenzel
+fire opal                  1200 1080 Jewels Oria
+firelance ***               N/A  N/A Weapon N/A
+flail                        50   40 Weapon Wenzel
+flamesticks                 100   80 Weapon Wenzel
+fury                        N/A  800 Weapon Wenzel
+garnet                       75   67 Jewels Oria
+giant's bone                N/A  350 N/A    N/A
+gold nugget                1200 1080 Jewels Oria
+gold shilling                 5    4 Jewels Oria
+golden battleaxe            N/A  800 Weapon Wenzel
+granite staff               N/A  850 ?
+halberd                     200  160 Weapon Wenzel
+harpy feather                20   19 Magic  Izalig
+hellcat                     600  480 Weapon Wenzel
+ice spear                   100   80 Weapon Wenzel
+incense                      20   17 Magic  Izalig
+indigo potion                75   67 Heal   Monk
+ivory rod                     7    6 Jewels Oria
+jacinth                     650  585 Jewels Oria
+jade                        650  585 Jewels Oria
+leather armor                50   40 Armory Hanrod
+lightning bolt              N/A  800 Weapon Wenzel
+luckring                     20   17 Magic  Izalig
+mace                         20   16 Weapon Hanrod
+marble chip                 100   85 Magic  Izalig
+mandrake                     70   59 Magic  Izalig
+maroon potion                75   67 Heal   Monk
+medallion                    55   49 ?
+mithril armor              4000 3200 Armory Hanrod
+moonstone                  1800 1620 Jewels Oria
+morningstar                 100   80 Weapon Wenzel
+necklace                     25   22 Jewels Oria
+nightstone                   30   25 Jewels Oria
+oak club                    100   80 Weapon Wenzel
+oak scepter                 N/A  400 Weapon Wenzel
+obsidian                     25   22 Jewels Oria
+onyx                        650  585 Jewels Oria
+opal                        250  225 Jewels Oria
+pearl                       250  225 Jewels Oria
+pickaxe                      60   48 Pawn   Zell
+pinecone                    100   85 Magic  Izalig
+pink potion                  15   13 Heal   Monk
+plate armor                1500 1200 Armory Hanrod
+prism                       200  180 Jewels Oria
+prismatic scimitar          600  480 Weapon Wenzel
+quartz                       25   22 Jewels Oria
+remove major curse/sorcery  500  N/A Heal   Monk
+ring                         35   31 Jewels Oria
+robe                       1500 1200 Armory Hanrod
+roc's talon                 800  640 Weapon Wenzel
+ruby                       1800 1620 Jewels Oria
+sandstone                    25   22 Jewels Oria
+sapphire                   1800 1620 Jewels Oria
+scale armor                 100   80 Armory Hanrod
+scarab                      400  360 Jewels Oria
+scarlet potion             1000  900 Heal   Monk
+sharkblade                  800  640 Weapon Wenzel
+shark tooth                 100   90 Jewels Oria
+silver feather              600  540 Jewels Oria
+silver ring                 400  360 ?
+silver whip                 100   73 Weapon Wenzel
+skull                       N/A  N/A ?
+spirit armor               6500 5200 Armory Hanrod
+staff of orcs               200  160 Weapon Wenzel
+Staff of the Undead ***     N/A  N/A N/A    N/A
+stardust                    400  360 Jewels Oria
+studded leather             150  120 Armory Hanrod
+sulphur/sulfur               15   12 Magic  Izalig
+sunsword ***                N/A  800 N/A    N/A
+sword                        30   24 Weapon Wenzel
+thunderblade                200  160 Weapon Wenzel
+tigereye bracelet            20   18 Jewels Oria
+topaz                       585  585 Jewels Oria
+tunic                        50   40 Armory Hanrod
+turtle shell                 30   25 Magic  Izalig
+vermillion potion           300  270 Heal   Monk
+vorpal broadsword           400  320 Armory Hanrod
+water axe                    50   40 Weapon Wenzel
+water dagger                 10    9 Weapon Wenzel
+water glove                 200  160 Weapon Wenzel
+water mace                   25   20 Weapon Wenzel
+water statue                 50   42 Magic  Izalig
+water sword                  37   29 Weapon Wenzel
+white potion ***            N/A  N/A N/A    N/A
+
+Notes:
+* This is only in the city.
+  Some items can only be found in the cities in each
+  element or by killing a monster.
+
+** You can sell most items to other shop owners.
+   This is only where you can sell items for the most
+   money. Try using the APPAISE command at different
+   shops to verify the best price.
+
+*** There are some items which cannot be bought or sold.
+    The only way to get these items is to buy, barter,
+	or take risks.

@@ -1,0 +1,22 @@
+From https://web.archive.org/web/20041011165948/http://www.crossroadsoftheelements.com/shopkeepers.txt
+
+Shopkeepers
+
+Name       Realm    Location            Specialty
+The Monk   Neutral  City of Crossroads  Healing and Potions
+Oria       Neutral  City of Crossroads  Jewels and Treasures
+Zell       Neutral  City of Crossroads  Pawn Shop
+Hanrod     Neutral  City of Crossroads  Armory
+Wenzel     Neutral  City of Crossroads  Weaponsmith
+Izalig     Neutral  City of Crossroads  Potions and Spell Components
+Amaranth   Air      Helos               Potions and Spell Components
+Klemm      Air      Helos               Armor and Weapons
+Hebezega   Air      Helos               Teleportation
+Black      Fire     Avernus             Brew!
+Lor        Fire     Avernus             Armor and Weapons
+Dara       Fire     Avernus             Potions and Spell Components
+Marna      Water    City of Aquatica    Armor and Weapons
+Arond      Water    City of Aquatica    Potions and Spell Components
+Jomb       Earth    City in the Trees   Potions and Spell Components
+Mokkis     Earth    City in the Trees   Jewels and Treasures
+Roltima    Earth    City in the Trees   Armor and Weapons
