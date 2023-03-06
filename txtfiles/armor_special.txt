@@ -1,0 +1,28 @@
+From https://web.archive.org/web/20041010193951/http://www.crossroadsoftheelements.com/armor_special.txt
+
+Special Armor
+
+For the best armor:
+
+1. Go to the altar 1 south and 2 east from the Gateway to Air.
+
+2. OFFER, in order, the following treasures:
+Item        From Realm
+diamond     Air
+ruby        Fire
+emerald     Earth
+sapphire    Water
+aquamarine  Water
+gold nugget Earth
+fire opal   Fire
+moonstone   Air
+
+You can purchase some of the items needed:
+Oria's has moonstone, ruby, emerald, sapphire
+Mokkis in Earth has aquamarine and gold nugget
+
+You must fight for the diamond and fire opal:
+Cloud Dragon 23 diamond
+Chimera      24 diamond
+Sorceror     25 diamond
+Star Dragon  26 diamond

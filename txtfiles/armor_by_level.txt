@@ -1,0 +1,12 @@
+From https://web.archive.org/web/20041010193645/http://www.crossroadsoftheelements.com/armor_by_level.txt
+
+Armors Usable by Level
+
+Level Warrior Armor    Mage Armor    Buy  Sell
+ 1    Leather          Tunic          50    40
+ 5    Scale            Cloak         100    80
+ 7    Studded Leather  Amulet        150   120
+10    Chain mail       Bracer        300   240
+15    Plate Mail       Robe         1500  1200
+20    Mithril          Circlet      4000  3200
+25    Adamantine Mail  Spirit Armor 6500  5200
