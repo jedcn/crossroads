@@ -1,0 +1,51 @@
+From https://web.archive.org/web/20041011174443/http://www.crossroadsoftheelements.com/weapons_by_level.txt
+
+Weapons Usable By Level and Element
+
+Earth Warriors
+Lv Weapon
+ 1 Dagger, Mace, Sword, Axe, or Earth enchanted version of same
+ 5 Oak club, Flail
+ 7 Morningstar
+10 Staff of Orcs, Broadsword
+12 Halberd
+15 Giant's Bone (from Giant Bugs)
+20 Adamantine Hammer (from Roltima in the Tree City)
+25 Berserker's Fist (from Roltima in the Tree City)
+30 Golden Batteaxe (from Gotik)
+
+Air Warriors
+Lv Weapon
+ 1 Dagger, Mace, Sword, Axe, or Air enchanted version of same
+ 5 Silver Whip, Flail
+ 7 Morningstar
+10 Thunderblade, Broadsword
+12 Halberd
+15 Vorpal Broadsword (from Ghosts)
+20 Prismatic Scimitar (from Klemm in Helos)
+25 Roc Talon (from Roc, or Klemm in Helos)
+30 Lightning Bolt (from Zeus)
+
+Water Warriors
+Lv Weapon
+ 1 Dagger, Mace, Sword, Axe, or Water enchanted version of same
+ 5 Ice Spear, Flail
+ 7 Morningstar
+10 Water Glove, Broadsword
+12 Halberd
+15 Crystal Sword (from Sisters)
+20 Tidal Hammer (from Marna in Warriors Guild)
+25 Sharkblade (from Marna in Warriors Guild, or pray with Sapphire at the Small Shrine)
+30 Coral Trident (from Marids)
+
+Fire Warriors
+Lv Weapon
+ 1 Dagger, Mace, Sword, Axe, or Fire enchanged version of same
+ 5 Flamesticks, Flail
+ 7 Morningstar
+10 Firelance, Broadsword
+12 Halberd
+15 Firebow (from Fiend)
+20 Hellcat (from Wenzel, Lor in Warriors Guild, or Demon Lord)
+25 Sunsword (from Lor in Warriors Guild, or Basilisk)
+30 Fury (from Efreeit or Hydra)
