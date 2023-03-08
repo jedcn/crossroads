@@ -135,7 +135,7 @@ vermillion potion           300  270 Heal   Monk
 vorpal broadsword           400  320 Armory Hanrod
 water axe                    50   40 Weapon Wenzel
 water dagger                 10    9 Weapon Wenzel
-water glove                 200  160 Weapon Wenzel
+waterglove                 200  160 Weapon Wenzel
 water mace                   25   20 Weapon Wenzel
 water statue                 50   42 Magic  Izalig
 water sword                  37   29 Weapon Wenzel
